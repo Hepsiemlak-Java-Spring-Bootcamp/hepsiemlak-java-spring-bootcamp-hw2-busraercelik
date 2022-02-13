@@ -71,5 +71,30 @@ Beanler ve web.xml içerir.
 
 Web tarayıcısından gelen isteği JSF Faces Servlet karşılar. Servlet bu isteği uygun sayfaya yönlendirir ve sayfa da cevabı tarayıcıya döner. 
 
+---
+# Hibernate
 
+Hibernate, veritabanıyla etkileşim kurmak için Java uygulamasının geliştirilmesini basitleştiren bir Java framework'üdür. Açık kaynak kodlu, lightweight, ORM (Object Relational Mapping) aracıdır. Hibernate, veri kalıcılığı için JPA'nın (Java Persistence API) özelliklerini uygular.
 
+## ORM Aracı
+
+Bir ORM aracı, veri oluşturmayı, veri işlemeyi ve veri erişimini basitleştirir. Nesneleri, veritabanında tutulan veriye map eder. ORM aracı, veritabanıyla etkileşim kurmak için dahili olarak JDBC API'sini kullanır.
+
+## JPA Nedir?
+
+Java Persistence API (JPA), ORM araçlarına belirli işlevsellik ve standart sağlayan bir Java özelliğidir.
+**javax.persistence** paketi JPA sınıflarını ve arayüzlerini içerir.
+
+## Desteklenen veritabları
+
+- HSQL Database Engine
+- DB2/NT
+- MySQL
+- PostgreSQL
+- FrontBase
+- Oracle
+- Microsoft SQL Server Database
+- Sybase SQL Server
+- Informix Dynamic Server
+
+![](src/main/webapp/resources/hibernate_position.jpg)
