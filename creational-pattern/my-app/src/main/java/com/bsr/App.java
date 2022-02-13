@@ -1,6 +1,5 @@
 package com.bsr;
 
-import com.bsr.dto.LandType;
 import com.bsr.dto.PropertySearchDTO;
 import com.bsr.dto.PropertyType;
 import com.bsr.model.*;
