@@ -3,6 +3,8 @@
 - Maven (version: 3.5.2)
 - Java (version: 1.8)
 - Tomcat (version 9.0.2)
+
+![](src/main/webapp/resources/output.png)
 ---
 # Spring MVC
 
